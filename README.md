@@ -1,3 +1,3 @@
-# Repositório para pesquisas de QA
+# RepositÃ³rio para pesquisas de QA
 
-Arquivos referentes a pesquisa de QA
+Arquivos referentes a pesquisa de QA.
